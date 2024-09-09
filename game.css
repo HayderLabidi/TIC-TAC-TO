@@ -365,7 +365,7 @@ button {
     transform: rotateY(360deg);
   }
 }
-/* Responsive design for smaller screens */
+
 @media (max-width: 768px) { 
   video {
     width: 100%;
@@ -389,7 +389,7 @@ button {
 
 }
 
-/* Further downscaling for very small screens */
+
 @media (max-width: 480px) {
   .outer-container {
     width: 91%;
